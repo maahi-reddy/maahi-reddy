@@ -13,7 +13,7 @@ Welcome to my GitHub! I’m a Computer Science Engineer who loves solving proble
 - 👯 I’m looking to collaborate on **Open Source, Web, and AI/ML Projects**
 - 🤔 I’m looking for help with **System Design and Competitive Programming**
 - 💬 Ask me about **Java, Python, Web Development, and Git/GitHub**
-- 📫 How to reach me: **[dachireddym@gmail.com](mailto:maahi.reddy@example.com)**
+- 📫 How to reach me: **[dachireddym@gmail.com](mailto:dachireddym@gmail.com)**
 - 😄 Pronouns: She/Her 
 - ⚡ Fun fact: I love turning coffee ☕ into code 💻
 
@@ -22,13 +22,13 @@ Welcome to my GitHub! I’m a Computer Science Engineer who loves solving proble
 ### 🛠️ Tech Stack
 
 #### 💻 Programming Languages
-`C` | `Java` | `Python` | `JavaScript` | `SQL`
+`C` | `Java` | `Python` | `JavaScript(ES6+)` | `SQL`
 
 #### 🌐 Web Technologies
-`HTML5` | `CSS3` 
+`HTML5` | `CSS3` | `Node.js` | `Express.js` | `EJS` 
 
 #### 🗄️ Databases
-`MySQL` 
+`MySQL` | `MongoDB` | `Firebase Firestore`
 
 #### ☁️ Cloud & Tools
 `Git` | `GitHub` | `VS Code` | `Linux` | `Figma`
